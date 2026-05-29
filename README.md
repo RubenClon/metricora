@@ -17,7 +17,7 @@ El sistema implementa una interfaz completamente responsiva controlada mediante 
 
 | 📱 Modo Compacto (Android / iOS) | 💻 Modo Expandido (Windows / macOS / Linux) |
 |:---:|:---:|
-| <img src="screenshots/mobile_dashboard.png" width="260" alt="Dashboard Móvil"/> | <img src="screenshots/desktop_analytics.png" width="520" alt="Analytics Desktop"/> |
+| <img src="Images/metricora_android.png" width="260" alt="Dashboard Móvil"/> | <img src="screenshots/desktop_analytics.png" width="520" alt="Analytics Desktop"/> |
 | *Navegación inferior táctil (`K34BottomNav`)* | *Panel de navegación lateral estirado (`K34SideNav`)* |
 
 ### 🌗 Experiencia Visual Completa
