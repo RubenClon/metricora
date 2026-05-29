@@ -17,13 +17,13 @@ El sistema implementa una interfaz completamente responsiva controlada mediante 
 
 | 📱 Modo Compacto (Android / iOS) | 💻 Modo Expandido (Windows / macOS / Linux) |
 |:---:|:---:|
-| <img src="Images/metricora_android.png" width="260" alt="Dashboard Móvil"/> | <img src="screenshots/desktop_analytics.png" width="520" alt="Analytics Desktop"/> |
+| <img src="Images/metricora_android.png" width="260" alt="Dashboard Móvil"/> | <img src="Images/metricora_desktop_claro.png" width="520" alt="Analytics Desktop"/> |
 | *Navegación inferior táctil (`K34BottomNav`)* | *Panel de navegación lateral estirado (`K34SideNav`)* |
 
 ### 🌗 Experiencia Visual Completa
 | Modo Oscuro Integrado | Seguridad y APIs Nativas |
 |:---:|:---:|
-| <img src="screenshots/dark_mode.png" width="260" alt="Modo Oscuro"/> | <img src="screenshots/biometric_prompt.png" width="260" alt="Biometría"/> |
+| <img src="Images/metricora_desktop.png" width="260" alt="Modo Oscuro"/> | <img src="metricora_android_biometric.jpeg" width="260" alt="Biometría"/> |
 | *Soporte nativo para temas claro, oscuro y automático* | *Pantalla de bloqueo con autenticación biométrica* |
 
 ---
