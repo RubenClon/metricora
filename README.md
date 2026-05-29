@@ -23,7 +23,7 @@ El sistema implementa una interfaz completamente responsiva controlada mediante 
 ### 🌗 Experiencia Visual Completa
 | Modo Oscuro Integrado | Seguridad y APIs Nativas |
 |:---:|:---:|
-| <img src="Images/metricora_desktop.png" width="260" alt="Modo Oscuro"/> | <img src="metricora_android_biometric.jpeg" width="260" alt="Biometría"/> |
+| <img src="Images/metricora_desktop.png" width="260" alt="Modo Oscuro"/> | <img src="Images/metricora_android_biometric.jpeg" width="260" alt="Biometría"/> |
 | *Soporte nativo para temas claro, oscuro y automático* | *Pantalla de bloqueo con autenticación biométrica* |
 
 ---
